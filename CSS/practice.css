@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#headerinner {
+    background-color: rgb(200, 169, 230);
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 4%;
+    overflow: hidden;
+}
+#header-logo {
+    float: left;
+}
+#header-logo img {
+    width: 120px;
+    padding: 10px 0;
+}
+#header-li {
+    float: right;
+    padding: 20px 0;
+}
+#header-li a {
+    margin-left: 30px;
+}
